@@ -1,7 +1,5 @@
 #!/usr/bin/bash
 
-
-
 DBMS_DIR="DBMS"
 
 # Ensure DBMS directory exists
@@ -113,9 +111,7 @@ do
 
             export CURRENT_DB="$DBMS_DIR/$db"
 
-            # ===============================
-            # IMPORTANT PART (FIX)
-            # ===============================
+           
             bash table.sh
 
 
