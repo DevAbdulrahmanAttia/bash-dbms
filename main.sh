@@ -1,9 +1,6 @@
 #!/usr/bin/bash
 
-# ==========================================
-# Simple Bash DBMS
-# Main Menu + Connect Database
-# ==========================================
+
 
 DBMS_DIR="DBMS"
 
